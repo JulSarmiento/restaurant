@@ -1,0 +1,11 @@
+{
+  "name": "odashi-il-divo",
+  "version": "1.0.0",
+  "description": "Odashi s restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JulSarmiento",
+  "license": "MIT"
+}

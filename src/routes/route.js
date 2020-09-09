@@ -94,7 +94,6 @@ router.patch('/dishes/:id', [dishesValidator], async (request, response) => {
 	}
 })
 
-
 /*
 * Aqui exportamos las rutas
  */

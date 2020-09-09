@@ -1,3 +1,7 @@
+// exportamos el .env
+require('dotenv').config();
+
+// exportamos los cositos de siempre
 const Express = require('express');
 const app = new Express();
 
